@@ -1,33 +1,51 @@
 ﻿<list>
 
-<m type="2" src="api.php/youku/XNDI1NjczNDI4.mp4" label="优酷"/>
 
-<m list_src="api.php/youkuv/zaf02ac580b5711e5a080.xml" label="优酷电视剧"/>
+<m type="2" src="http://liupeiqing.com/api.php/youku/XNDI1NjczNDI4.mp4" label="优酷"/>
 
-<m type="2" src="api.php/yinyuetai/2050772.mp4" label="音乐台"/>
 
-<m type="2" src="api.php/m1905/974839.mp4" label="M1905"/>
+<m list_src="http://liupeiqing.com/api.php/youkuv/zaf02ac580b5711e5a080.xml" label="优酷电视剧"/>
 
-<m type="2" src="api.php/ku6/OWAU-oYNy924nvqXkim7YQ...mp4" label="酷6"/>
 
-<m type="2" src="api.php/acfun/ac2525618.mp4" label="ACfun"/>
+<m type="2" src="http://liupeiqing.com/api.php/yinyuetai/2050772.mp4" label="音乐台"/>
 
-<m type="2" src="api.php/fun/g-111931.mp4" label="风行"/>
 
-<m type="2" src="api.php/qq/g0019pkfpeg.mp4" label="腾讯"/>
+<m type="2" src="http://liupeiqing.com/api.php/m1905/974839.mp4" label="M1905"/>
 
-<m type="2" src="api.php/aipai/c31/PDYhICAhIidqJWQsLg.html" label="爱拍"/>
 
-<m type="2" src="api.php/kugou/mv_71606.mp4" label="酷狗MV"/>
+<m type="2" src="http://liupeiqing.com/api.php/ku6/OWAU-oYNy924nvqXkim7YQ...mp4" label="酷6"/>
 
-<m type="2" src="api.php/mgtv/v/3/109242/f/1777090.html" label="芒果"/>
+
+<m type="2" src="http://liupeiqing.com/api.php/acfun/ac2525618.mp4" label="ACfun"/>
+
+
+<m type="2" src="http://liupeiqing.com/api.php/fun/g-111931.mp4" label="风行"/>
+
+
+<m type="2" src="http://liupeiqing.com/api.php/qq/g0019pkfpeg.mp4" label="腾讯"/>
+
+
+<m type="2" src="http://liupeiqing.com/api.php/aipai/c31/PDYhICAhIidqJWQsLg.html" label="爱拍"/>
+
+
+<m type="2" src="http://liupeiqing.com/api.php/kugou/mv_71606.mp4" label="酷狗MV"/>
+
+
+<m type="2" src="http://liupeiqing.com/api.php/mgtv/v/3/109242/f/1777090.html" label="芒果"/>
+
 
 <m type="2" src="{id}/api?v=http://www.56.com/u15/v_MTE0MDg2NTQ4.html" label="56网页格式"/>
 
 
-<m type="2" src="api.php/kuwo/4847647.mp4" label="酷我MV》Mr.TaxiMV"color="#00ff00,#8b00ff" />
-<m type="1" src="api.php/migu/1002230188.mp4" label="咪咕MP3"/>
-<m type="2" src="api.php/qq/d00176y386u.mp4" label="腾讯MV"/>
-<m type="1" src="api.php/mp3/默-那英.mp3" label="MP3"/>
-<m type="1" src="api.php/xiami/1773571331.mp3" label="虾米MP3"/>
+
+<m type="2" src="http://liupeiqing.com/api.php/kuwo/4847647.mp4" label="酷我MV》Mr.TaxiMV"color="#00ff00,#8b00ff" />
+
+<m type="1" src="http://liupeiqing.com/api.php/migu/1002680417.mp4" label="咪咕MP3"/>
+
+<m type="2" src="http://liupeiqing.com/api.php/qq/d00176y386u.mp4" label="腾讯MV"/>
+
+<m type="1" src="http://liupeiqing.com/api.php/mp3/默-那英" label="百度MP3"/>
+
+<m type="1" src="http://liupeiqing.com/api.php/xiami/1773571331.mp3" label="虾米MP3"/>
+
 </list>
