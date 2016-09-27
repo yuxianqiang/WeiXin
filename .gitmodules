@@ -1,0 +1,3 @@
+[submodule ".deploy_git"]
+	path = .deploy_git
+	url = E:\\GitHub\\blog\\.deploy_git
