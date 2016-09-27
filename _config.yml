@@ -1,0 +1,47 @@
+﻿# Basic
+title: 余显强
+subtitle: 个人站
+description: 
+creator: <a href="http://yuxianqiang.github.io">@YuXianQiang</a>
+
+url: "http://yuxianqiang.github.io"
+
+permalink: /:year/:month/:title/
+
+# Format
+highlighter: rouge
+
+# supported colors: blue, green, purple, red, orange or slate. If you need clear, leave it empty.
+cover_color: clear
+
+# The blog button should not be removed.
+blog_button:
+    title: 博客
+
+# Navigation buttons in the front page.s
+nav:
+    - {title: Wiki, description: Wiki, url: 'http://wiki.baixin.io'}     
+    - {title: 标签, description: tags, url: '/tags'}      
+    - {title: 所有文章, description: archive, url: '/archive'}   
+    
+# Pagination
+gems: [jekyll-paginate,jekyll-sitemap]
+paginate: 10
+paginate_path: "page/:num/"
+
+# Comment
+comment:
+    # disqus: yuxianqing
+    duoshuo: yuxianqiang
+
+# Social
+social:
+    weibo: 409783517
+    github: yuxianqiang
+    # twitter: 
+    mail: yuxianqiang@gmail.com
+
+# Google Analytics
+ga:
+    # id: your_ga_id
+    # host: your_host
