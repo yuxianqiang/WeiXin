@@ -68,6 +68,7 @@ theme: next
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy: 
-  type:git
-  repo:https://github.com/yuxianqiang/yuxianqiang.github.io.git
-  branch:master
+  type: git
+  repository: https://github.com/yuxianqiang/yuxianqiang.github.io.git
+  branch: master
+  plugins: -hexo-generator-feed
