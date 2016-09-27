@@ -1,0 +1,42 @@
+﻿<!--
+CMP4配置文件
+
+所有配置参数说明请见：http://bbs.cenfun.com/thread-10891-1-1.html
+
+更多详细参数说明，请参见CMP交流论坛http://bbs.cenfun.com/
+-->
+<cmp 
+	name = "博客音乐 - 『生活需要音乐』" 
+	link = "http://yuxianqiang.github.io/" 
+	description = "博客音乐 - 『生活需要音乐』 - http://yuxianqiang.github.io/"
+	logo = "{src:logo.png,xywh:[10R,10R,0,0]}"
+	
+	skins = "skins/bd.swf,skins/16dy.zip,skins/pipi.swf,skins/mp3.swf,skins/default.zip,skins/xdj.zip,skins/qqplayer.zip,skins/wmp11.zip,skins/exobud.zip,skins/tudou.zip,skins/mini/vplayer.zip"
+	plugins = "/plugins/krc.swf,/plugins/srcs.swf,/plugins/merge.swf"
+	backgrounds = ""
+	bg_src = ""
+	bg = ""
+
+	lists = ""
+	bg_video=""
+        yyt = "http://gaoqing.aliapp.com/php/yytmv.php?id="
+        hc="http://hc.yinyuetai.com/uploads/videos/common/"
+        hcflv="http://hcflv.yinyuetai.com/uploads/videos/common/"
+        yflv="http://flv.yinyuetai.com/uploads/videos/common/"
+	56="http://fdwt.aliapp.com/code/56_anime.php?vid="
+        6080="http://g3tv6080.aliapp.com"
+        id="http://avyouku.com/"
+
+	src_handler = "" 
+	lrc_handler = "http://avyouku.com/krc.php?type={type}&title={label}&rd={rd}"
+
+        youku_handler=""
+	skin_id = "1"
+	context_menu= "0"
+	play_id = "1"
+	auto_play = "1"
+	list_delete = ""
+
+	
+	counter = ""
+/>
