@@ -69,5 +69,5 @@ theme: yilia
 ## Docs: https://hexo.io/docs/deployment.html
 deploy: 
   type: git
-  repo: https://github.com/yuxianqiang/yuxianqiang.github.io.git
+  repository: https://github.com/yuxianqiang/yuxianqiang.github.io.git
   branch: master
