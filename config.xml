@@ -11,7 +11,7 @@ CMP4配置文件
 	description = "博客音乐 - 『生活需要音乐』 - http://yuxianqiang.github.io/"
 	logo = "{src:logo.png,xywh:[10R,10R,0,0]}"
 	
-	skins = "skins/bd.swf"
+	skins = "skins/bd.swf,skins/16dy.zip,skins/pipi.swf,skins/mp3.swf,skins/default.zip,skins/xdj.zip,skins/qqplayer.zip,skins/wmp11.zip,skins/exobud.zip,skins/tudou.zip,skins/mini/vplayer.zip"
 	plugins = "/plugins/krc.swf,/plugins/srcs.swf,/plugins/merge.swf"
 	backgrounds = ""
 	bg_src = ""
