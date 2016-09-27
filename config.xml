@@ -31,7 +31,7 @@ CMP4配置文件
 	lrc_handler = "http://avyouku.com/krc.php?type={type}&title={label}&rd={rd}"
 
         youku_handler=""
-	skin_id = "3"
+	skin_id = "1"
 	context_menu= "0"
 	play_id = "1"
 	auto_play = "1"
